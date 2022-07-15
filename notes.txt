@@ -1,0 +1,2 @@
+1) dotenv is the file used to keep our secrets as secret. now we had our daabase and we can see the details in the conectString so
+in order to keep it a secret we use dotenv file
